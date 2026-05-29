@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "Responsywna, rozbudowana i zgodna z WCAG aplikacja do zarządzania zadaniami dla systemu Android, stworzona w języku Kotlin z użyciem Jetpack Compose, Room Database i symulacji synchronizacji z chmurą.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
